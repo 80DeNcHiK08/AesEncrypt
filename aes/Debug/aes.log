@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\quadreff\source\repos\aes\aes\main.cpp(203): warning C4018: '<': signed/unsigned mismatch
+c:\users\quadreff\source\repos\aes\aes\main.cpp(305): warning C4018: '<': signed/unsigned mismatch
+c:\users\quadreff\source\repos\aes\aes\main.cpp(338): warning C4018: '<': signed/unsigned mismatch
+c:\users\quadreff\source\repos\aes\aes\main.cpp(411): warning C4018: '<': signed/unsigned mismatch
+c:\users\quadreff\source\repos\aes\aes\main.cpp(413): warning C4477: 'sscanf' : format string '%2X' requires an argument of type 'unsigned int *', but variadic argument 1 has type 'uint8_t *'
+  c:\users\quadreff\source\repos\aes\aes\main.cpp(413): note: consider using '%hhX' in the format string
+  aes.vcxproj -> C:\Users\quadreff\source\repos\aes\Debug\aes.exe
